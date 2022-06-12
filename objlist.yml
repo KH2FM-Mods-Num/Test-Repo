@@ -40,7 +40,7 @@
   ObjectTargetType: M
   Padding: 0
   NeoStatus: 1
-  NeoMoveset: 0x25
+  NeoMoveset: 2
   Weight: 100
   SpawnLimiter: 0
   Page: 0
@@ -70,7 +70,7 @@
   ObjectTargetType: M
   Padding: 0
   NeoStatus: 1
-  NeoMoveset: 0x11
+  NeoMoveset: 3
   Weight: 100
   SpawnLimiter: 0
   Page: 0

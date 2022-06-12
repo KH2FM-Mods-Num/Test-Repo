@@ -30,7 +30,7 @@ for i in range(0x46):
     amount = count(offset)
     if not i in models:
         models[i] = ''
-    print(note(i),offset,amount,models[i])
+    print(note(i),note(offset),amount,models[i])
     if offset in offsets:
         continue
     offsets.append(offset)
